@@ -3118,6 +3118,10 @@ input, select, textarea {
 			border-color: #39c088;
 		}
 
+		.spotlight.style4 .content {
+			border-color: #9B75E4;
+		}
+
 		.spotlight.inactive .content {
 			opacity: 0;
 		}
